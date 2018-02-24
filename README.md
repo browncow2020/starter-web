@@ -10,7 +10,7 @@ This is example to show different parts of the Git repository and various comman
 
 Sample website with plenty of files for demos. This will help with daily life at the mill.
 
-Yada yada yada....rebasing example.
+Yada yada yada....rebasing example.  Here are some more changes from the myfeature branch too.
 
 ## Deployment
 
