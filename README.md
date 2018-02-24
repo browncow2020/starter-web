@@ -12,6 +12,8 @@ Sample website with plenty of files for demos. This will help with daily life at
 
 ## Deployment
 
+This is a simple web project, deployment cann be on any web server or local file system.
+
 ## How To Contribute
 
  
